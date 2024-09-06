@@ -1,0 +1,6 @@
+site_name: Pilot project
+nav:
+  - Home: index.md
+  - About: about.md
+  - Quiz: quiz.md
+theme: readthedocs
