@@ -19,6 +19,6 @@
       correct++;
     }
 
-    document.getElementById('result').innerText = "You acertou!!! Obteve " + correct + " de 1 resposta correta.";
+    document.getElementById('result').innerText = "Você acertou!!! Obteve " + correct + " de 1 resposta correta.";
   }
 </script>
